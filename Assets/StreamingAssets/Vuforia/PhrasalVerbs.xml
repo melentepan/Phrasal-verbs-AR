@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="switchOnLabel" size="5.000000 5.000000" />
+    <ImageTarget name="FallApartLabel" size="5.000000 5.000000" />
+    <ImageTarget name="LookAroundLabel" size="5.000000 5.000000" />
+    <ImageTarget name="takeApartLabel" size="5.000000 5.000000" />
+    <ImageTarget name="workOutLabel" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
